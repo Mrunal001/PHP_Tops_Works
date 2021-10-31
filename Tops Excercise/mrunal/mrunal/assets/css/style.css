@@ -1,0 +1,54 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+.navbar {
+    width: 100%;
+    height: auto;
+}
+
+.navbar ul li {
+    display: inline-block;
+    padding: 25px 20px;
+    font-size: 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+}
+
+.content {
+    width: 100%;
+    height: auto;
+    margin-top: 10%;
+}
+
+.footer {
+    width: 100%;
+    height: 120px;
+    background-color: black;
+    color: white;
+}
+
+.footer h3 {
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 5%;
+}
+
+#cat-sidebar ul li {
+    font-size: 18px;
+    padding: 10px 10px;
+}
+
+#cat-sidebar,
+li,
+a {
+    text-decoration: none !important;
+    list-style-type: none !important;
+    color: black;
+}

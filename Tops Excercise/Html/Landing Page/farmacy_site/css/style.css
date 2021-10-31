@@ -1,0 +1,78 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    background-color: #3a4eb1;
+}
+
+.header {
+    background-color: #c510d7;
+    height: 100px;
+    width: 100%;
+    padding: 1px;
+}
+
+#logo img {
+    height: 100px;
+    width: 15%;
+    margin-left: 0.05%;
+    float: left;
+}
+
+#menu ul li {
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 200;
+    padding: 25px 55px;
+    margin-left: 3%;
+}
+
+#menu a {
+    color: pink;
+    text-decoration: none;
+}
+
+.footer {
+    background-color: #73659c;
+    height: 110px;
+    width: 100%;
+    position: fixed;
+    margin-top: 32.5%;
+}
+
+#social-media {
+    color: #e31bdd;
+    margin-left: 10px;
+    letter-spacing: 10px;
+    position: fixed;
+    font-size: 25px;
+}
+
+#text1 {
+    margin-left: 600px;
+    font-size: 20px;
+    color: Red;
+}
+
+#text2 {
+    margin-left: 1080px;
+    font-size: 18px;
+    margin-bottom: 500px;
+    color: pink;
+}
+
+p {
+    margin-top: 10px;
+    line-height: 1;
+    font-size: 18px;
+}
+
+.content {
+    position: fixed;
+}
+
+h1 {
+    position: fixed;
+    margin: 10px;
+    color: red;
+}

@@ -1,0 +1,90 @@
+08/07/2020
+
+1) w.a.p to print your name using canonical method without echo and print
+2) w.a.p to print your name using print
+3) w.a.p to print your multiple name using echo
+4) w.a.p to print and echo method using detriments of php
+
+13/07/2020
+
+1)W.A.P to find odd or even number
+2)W.A.P to find average marks among three subject math=99, computer 89.5, physics=75
+3)W.A.P to find max number among of three n umber a=45, b=96, c=105
+4)W.A.P to find simple interest
+5)W.A.P. to find compound interest
+6)W.A.P to find leap year or not 
+7)W.A.P to find only odd numbers of searies 1,3,5,7,9,11,13..............
+8)W.A.P to find a number is prime number  or not
+
+15/07/2020
+
+1)W.A.P to find Average of marks among three subjects user input //done
+2)W.A.P to find Queb Series
+3)W.A.P to find Armstrong Series
+4)W.A.P to find only Even Number
+5)W.A.P. to find only Odd Number
+6)W.A.P to find leap year or not 
+7)W.A.P to to Print Reverse Order
+8)W.A.P to Swap Number
+9)W.A.P. to Print Pyramid in numbers
+10)W.A.P. to find largest among three numbers using ternery operators
+11)W.A.P. to find a Gross Salary //done
+
+20/07/2020
+
+1)W.a.p  to print your name take input from user ? //done
+2)W.a.p  to print odd or even number take input from user ? //done
+3)W.a.p  to print odd number series like this 1,3,5,7....... take input from user ? //done
+4)W.a.p  to print prime number or not take input from user ?
+5)W.a.p  to print a year is leap year is not   take input from user ? //done
+6)W.a.p  to print full your full address using function  ? //done
+7)W.a.p  to print a fibnacci series 0,1,1,2,3,5......  ?
+8)W.a.p  to print star pattern  ? //done
+   e.g       *
+               **
+               ***
+               ****
+               *****
+ 9)W.a.p  to print number pattern ?
+ e.g        12345
+               1234
+                123
+                 12
+                  1 
+               
+  e.g       @
+               @@
+                @@@
+                 @@@@
+                  @@@@@
+                  @@@@@@
+                   @@@@@@@
+
+10)W.a.p  to print grading system using switch case take input from user?
+
+      e.g           Enter grade  ...............
+                         submit button
+
+11)W.a.p  to print compound interest take input from users  ?
+
+        e.g         Enter Principle amount .........
+                      Enter ROI                           ..........
+                      Enter Number of Years    ..........
+                            submit button         
+
+12)W.a.p  to print simple interest take input from users ? //done
+        e.g         Enter Principle amount .........
+                      Enter ROI                           ..........
+                      Enter Number of Years    ..........  
+                            submit button         
+
+21/07/2020
+
+1. Print a current date format of system //done
+2. Print current time zone of America //done
+3. Print current time zone of India //done
+4. Print current time zone of Dhaka //done
+5. Print a time after of 4 hrs //done
+6. Print today is 22nd of July 2020
+7. Print today is Wed/July/2020
+8. Find different between two days
