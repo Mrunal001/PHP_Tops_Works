@@ -1,0 +1,123 @@
+/* provide css of company site 
+Theme Name :Company Site
+Author:Mr.Brijesh KUmar pandey
+published date :07/09/2020
+versions :html/Html5/css/
+
+*/
+
+body {
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+.comp-header {
+    background-color: #0bbade;
+    width: 100%;
+    height: 75px;
+    position: fixed;
+    z-index: 1;
+}
+
+#comp-logo img {
+    width: 20%;
+    height: 75px;
+    margin-left: 2%;
+    float: left;
+}
+
+#comp-nav {
+    width: 100%;
+    height: auto;
+    margin-left: 3% !important;
+}
+
+#comp-nav ul li {
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 15px 15px;
+    margin-left: 4% !important;
+}
+
+#comp-nav a {
+    color: white;
+    text-decoration: none;
+}
+
+.active {
+    background-color: #a6eaf8;
+    padding: 10px 10px;
+}
+
+.slider {
+    width: 100%;
+    height: 450px;
+    z-index: 1 !important;
+    filter: grayscale(50%) !important;
+}
+
+.slider img {
+    width: 100%;
+    height: 450px;
+    margin-top: 5.5%;
+    z-index: 2;
+}
+
+#comp-slide-content {
+    margin-top: -25%;
+    z-index: -1!important;
+}
+
+#btn {
+    width: 200px;
+    height: 45px;
+    background-color: #0bbade;
+    font-size: 17px;
+    color: white;
+    border: none
+}
+
+.comp-content {
+    margin-top: 10% !important;
+    color: gray;
+}
+
+#comp-content-feature {
+    height: auto;
+    float: left;
+    margin-left: 6%;
+}
+
+.fa-desktop,
+.fa-phone,
+.fa-globe,
+.fa-apple {
+    background-color: #0bbade;
+    padding: 45px;
+    color: white;
+    font-size: 25px !important;
+    border-radius: 100%;
+}
+
+#comp-contact-content {
+    width: 100%;
+    height: auto;
+    margin-top: 25% !important;
+}
+
+#comp-contact {
+    width: 45%;
+    height: 450px;
+    background-color: #0bbade;
+    float: left;
+    margin-left: 5%;
+}
+
+#comp-map {
+    width: 45%;
+    height: 450px;
+    float: left;
+    background-color: #e8dede;
+}

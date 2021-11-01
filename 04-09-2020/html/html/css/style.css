@@ -1,0 +1,16 @@
+div
+{
+
+width: 350px;
+height: 250px;
+border:solid 2px red;
+float:left;
+padding: 15px;
+margin:10px;
+margin-left:3%;
+
+}
+div img{
+    width: 350px;
+    height: 250px;
+}
