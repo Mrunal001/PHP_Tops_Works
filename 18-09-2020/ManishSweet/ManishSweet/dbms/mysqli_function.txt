@@ -1,0 +1,73 @@
+Mysqli or mysql :
+mysql :database
+mysqli:database imporoved version of mysqli
+
+mysqli function :
+1)how to connect with database 
+
+ $con=mysqli_connect("localhost","root","","dbname");
+   if($con)
+
+   {
+     echo "Connection success";
+   }   
+
+   else
+
+   {
+      die(mysqli_error($con));
+   }
+ 
+   return $con;       
+ 
+        or
+
+   $ser="localhost";
+   $user="root";
+   $pass="";
+   $dbname="manish_sweet";
+   $con=new mysqli($ser,$user,$pass,$dbname);
+    
+   if($con)
+
+   {
+     echo "Connection success";
+   }   
+
+   else
+
+   {
+      die(mysqli_error($con));
+   }
+ 
+   return $con;       
+     
+ 
+2)how to execute any query :
+
+     $query=mysqli_query();
+
+    ex:
+         $sel="select * from register";
+
+         $query=mysqli_query($con,$sel);
+
+
+3)how to fetch data from database 
+
+     
+          a)$result=mysqli_fetch_array()
+          b)$result=mysqli_fetch_object()
+          c)$result=mysqli_fetch_assoc()
+          d)$result=mysqli_num_rows()
+
+
+4)how to check connection
+
+     die(mysqli_error($con))
+
+5)how to close connection
+
+
+      mysqli_close($con);     
+   
